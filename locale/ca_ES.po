@@ -1,0 +1,71 @@
+# 
+msgid ""
+msgstr "Content-Type: text/plain; charset=utf-8\n"
+
+msgctxt "field:action.report.company.subdivision,active:"
+msgid "Active"
+msgstr "Actiu"
+
+msgctxt "field:action.report.company.subdivision,create_date:"
+msgid "Create Date"
+msgstr "Data creació"
+
+msgctxt "field:action.report.company.subdivision,create_uid:"
+msgid "Create User"
+msgstr "Usuari creació"
+
+msgctxt "field:action.report.company.subdivision,directory:"
+msgid "Directory"
+msgstr "Directori"
+
+msgctxt "field:action.report.company.subdivision,id:"
+msgid "ID"
+msgstr "ID"
+
+msgctxt "field:action.report.company.subdivision,rec_name:"
+msgid "Name"
+msgstr "Nom"
+
+msgctxt "field:action.report.company.subdivision,report:"
+msgid "Report"
+msgstr "Informe"
+
+msgctxt "field:action.report.company.subdivision,subdivision:"
+msgid "Subdivision"
+msgstr "Subdivisió"
+
+msgctxt "field:action.report.company.subdivision,write_date:"
+msgid "Write Date"
+msgstr "Data modificació"
+
+msgctxt "field:action.report.company.subdivision,write_uid:"
+msgid "Write User"
+msgstr "Usuari modificació"
+
+msgctxt "field:ir.action.report,subdivisions:"
+msgid "Subdivisions"
+msgstr "Subdivisions"
+
+msgctxt "help:action.report.company.subdivision,directory:"
+msgid "Directory name (without \"/\")"
+msgstr "Nom del directori (sense \"/\")"
+
+msgctxt "model:action.report.company.subdivision,name:"
+msgid "Action report Company Subdivision"
+msgstr "Informe subdivisió empresa"
+
+msgctxt "model:ir.action,name:act_reports_company_subdivision_form"
+msgid "Reports by Subdivision"
+msgstr "Informes per subdivisions"
+
+msgctxt "view:action.report.company.subdivision:"
+msgid "Company Subdivision Report"
+msgstr "Informe subdivisió empresa"
+
+msgctxt "view:action.report.company.subdivision:"
+msgid "Company Subdivision Reports"
+msgstr "Informes subdivisió empresa"
+
+msgctxt "view:ir.action.report:"
+msgid "Subdivisions"
+msgstr "Subdivisions"
