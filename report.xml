@@ -26,7 +26,9 @@ The COPYRIGHT file at the top level of this repository contains the full copyrig
         <record model="ir.action.act_window" id="act_reports_company_subdivision_form">
             <field name="name">Reports by Subdivision</field>
             <field name="res_model">action.report.company.subdivision</field>
-            <field name="domain">[('subdivision', 'in', Eval('active_ids'))]</field>
+            <field name="domain"
+                eval="[('subdivision', 'in', Eval('active_ids'))]"
+                pyson="1"/>
         </record>
         <record model="ir.action.keyword" id="act_open_reports_company_subdivision_keyword1">
             <field name="keyword">form_relate</field>
